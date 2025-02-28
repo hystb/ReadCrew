@@ -1,0 +1,10 @@
+crewai
+langchain
+langchain_community
+langchain-experimental
+langchain-openai
+openai
+requests
+nbformat
+matplotlib
+wikipedia
